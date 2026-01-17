@@ -187,4 +187,4 @@ Use of this software in environments where failure, compliance, legal exposure, 
 
 The original maintainer is available for assurance, adaptation, and responsibility when such accountability is required.
 
-Contact: legal@speedkit.eu
+Contact: contact@speedkit.eu
