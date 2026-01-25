@@ -1,4 +1,15 @@
-# ARCHICUSTOS
+```
+PRIM-007
+ARCHICUSTOS
+Custody primitive
+
+STATUS: REGISTERED
+REGISTRY: https://speedkit.eu
+```
+
+Registered artifact. Identity governed by SPEEDKIT registry.
+
+---
 
 **ARCHICUSTOS v0.0.0** is a custody primitive.
 
