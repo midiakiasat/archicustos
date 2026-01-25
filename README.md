@@ -5,6 +5,7 @@ Custody primitive
 
 STATUS: REGISTERED
 REGISTRY: https://speedkit.eu
+SNAPSHOT: https://speedkit.eu/REGISTRY_SNAPSHOT.json
 ```
 
 Registered artifact. Identity governed by SPEEDKIT registry.
